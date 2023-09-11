@@ -1,3 +1,18 @@
+.title
+{
+    text-align: center;
+}
+.search-bar
+{
+    margin-top: 40px;
+    margin-left: 350px;
+}
+.flex-search
+{
+    display: flex;
+    flex-direction: row;
+}
+
 .flex-body-main
 {
     display: flex;
@@ -6,6 +21,7 @@
 
 .grilled-cheese
 {
+    font-size: 2rem;
     display: flex;
     flex-direction: column;
     background-color: yellow;
@@ -14,8 +30,9 @@
 }
 .main-body
 {
+    font-size: 2rem;
+    margin-top: 50px;
     border: 25px solid;
-    border-radius: 40%;
     border-color: aquamarine;
     background-color: aqua;
 }
@@ -25,8 +42,8 @@
 }
 .text-box
 {
-    text-align: left;
-    font-size: 100px;
+    text-align: center;
+    font-size: 3rem;
     font-style: italic;
 }
 .footer
