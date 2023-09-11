@@ -1,0 +1,23 @@
+.grilled-cheese
+{
+    background-color: yellow;
+    width: fit-content;
+    height: fit-content;
+}
+.main-body
+{
+    border: 25px solid;
+    border-radius: 40%;
+    border-color: aquamarine;
+    background-color: aqua;
+}
+.picture-box
+{
+    border: 25px solid black;
+}
+.text-box
+{
+    text-align: left;
+    font-size: 100px;
+    font-style: italic;
+}
